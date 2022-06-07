@@ -1,4 +1,44 @@
-# Getting Started with Create React App
+# Restaurant Manager App using React JS and json-server
+
+### Home page
+![ScreenShot](/images/home.png)
+
+### Details page
+
+![ScreenShot](/images/details.png)
+
+### Login page
+![ScreenShot](/images/login.png)
+
+### List and search restaurants
+
+![ScreenShot](/images/list.png)
+![ScreenShot](/images/listsearch.png)
+
+### Delete
+![ScreenShot](/images/delprompt.png)
+![ScreenShot](/images/delsuccess.png)
+
+### Update
+![ScreenShot](/images/updateprompt.png)
+
+### Create
+![ScreenShot](/images/create.png)
+![ScreenShot](/images/createsuccess.png)
+
+### If the json-server is not working or any other error
+![ScreenShot](/images/delerror.png)
+![ScreenShot](/images/listerror.png)
+
+### If you did not login
+![ScreenShot](/images/listbadreq.png)
+
+## The json-server should run at port 4000 and load db.json file from db/ folder with id as "id"
+## Command:  json-server -p 4000 -w db.json --id id
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
