@@ -1,51 +1,60 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "admin",
-      "pass": "password"
-    },
-    {
-      "id": 2,
-      "name": "user",
-      "pass": "pass"
-    }
-  ],
-  "restaurants": [
-    {
-      "id": 1,
-      "name": "BBQ Nation",
-      "address": "Noida",
-      "rating": "4.5",
-      "email": "bbqn@mail.server.com"
-    },
-    {
-      "id": 2,
-      "name": "Swagath",
-      "address": "Sector 29",
-      "rating": "5.0",
-      "email": "swagath@mail.server.com"
-    },
-    {
-      "id": 3,
-      "name": "Dominos",
-      "address": "VIT Chennai",
-      "rating": "4.0",
-      "email": "dominos@dominos.mail.com"
-    },
-    {
-      "id": 4,
-      "name": "Bikanerwala",
-      "address": "Sector 29",
-      "rating": "4.6",
-      "email": "bikanerwala@mail.server.com"
-    },
-    {
-      "id": 5,
-      "name": "AWS Biryani",
-      "address": "LA",
-      "rating": "4.9",
-      "email": "awsbiryani@aws.academy.instructure"
-    }
-  ]
-}
+    "users": [
+      {
+        "id": 1,
+        "name": "admin",
+        "pass": "password"
+      }
+    ],
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "BBQ Nation",
+        "address": "Noida",
+        "rating": "4.5",
+        "email": "bbqn@mail.server.com"
+      },
+      {
+        "id": 2,
+        "name": "Swagath",
+        "address": "Sector 29",
+        "rating": "5.0",
+        "email": "swagath@mail.server.com"
+      },
+      {
+        "id": 3,
+        "name": "Dominos",
+        "address": "VIT Chennai",
+        "rating": "4.0",
+        "email": "dominos@dominos.mail.com"
+      },
+      {
+        "id": 4,
+        "name": "Bikanerwala",
+        "address": "Sector 29",
+        "rating": "4.6",
+        "email": "bikanerwala@mail.server.com"
+      },
+      {
+        "id": 5,
+        "name": "AWS Biryani",
+        "address": "LA",
+        "rating": "4.9",
+        "email": "awsbiryani@aws.academy.instructure"
+      },
+      {
+        "name": "Haldiram",
+        "address": "Gurgaon",
+        "rating": "4.0",
+        "email": "haldiram@gmail.com",
+        "id": 6
+      },
+      {
+        "name": "KFC",
+        "address": "VIT",
+        "rating": "5.0",
+        "email": "kfc@chicken.com",
+        "id": 7
+      }
+    ]
+  }
